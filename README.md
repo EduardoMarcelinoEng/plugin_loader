@@ -5,3 +5,5 @@ Tecnologias:
 -HTML
 -Bootstrap
 -CSS
+
+Créditos: curso jQuery da HCode
