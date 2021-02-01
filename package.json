@@ -1,0 +1,16 @@
+{
+  "name": "loading",
+  "version": "1.0.0",
+  "description": "Plugin usado para mostrar imagem de carregamento, caso haja demora em alguma aplicação",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eduardo Marcelino",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.4.1"
+  }
+}
